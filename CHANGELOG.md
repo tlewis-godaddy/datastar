@@ -1,5 +1,9 @@
 # Changelog
 
+## 5.0.0
+
+- (breaking) support node versions 10 through 17 is dropped; minimum node version is now 18.0.x.
+
 ## 4.0.4
 
 - (fix) address vulnerable packagse
